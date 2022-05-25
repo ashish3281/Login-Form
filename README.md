@@ -7,5 +7,9 @@ Secondly, you need to use backdrop-filter: blur (10px) to blur the background a 
 <h2>Steps to create a Glassmorphism Login Page </h2>
 <pre>
 Step 1: Design the web page
-
+Step 2: Create  colorful SQUARE in the background
+Step 3: Create the basic structure of the Glassmorphism Login Form
+Step 4: Add headings to the form
+Step 5: Create input place to input
+Step 6: Add the login button to the Glassmorphism Login Form
 </pre>
