@@ -4,3 +4,8 @@
 Secondly, you need to use backdrop-filter: blur (10px) to blur the background a bit. In the end, you need to use a border to enhance its beauty. By changing these three codes you can convert any simple design to CSS Glassmorphism design.
 </p>
 <br>
+<h2>Steps to create a Glassmorphism Login Page </h2>
+<pre>
+Step 1: Design the web page
+
+</pre>
