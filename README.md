@@ -16,3 +16,4 @@ Step 7: Create Forgot Password and no user account
 </pre>
 <h2>OUTPUT</h2>
 <img sre="![Screenshot (204)](https://user-images.githubusercontent.com/92047366/170177356-44a47ab4-5a81-400f-961d-dd24d51e0444.png)">
+![Screenshot (204)](https://user-images.githubusercontent.com/92047366/170177356-44a47ab4-5a81-400f-961d-dd24d51e0444.png)
